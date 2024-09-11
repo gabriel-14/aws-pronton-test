@@ -1,10 +1,10 @@
 {
-  "deploymentId" : "8c8db417-1947-434d-90c6-357893309480",
+  "deploymentId" : "8514b6ef-d97c-429a-bcd7-029eabfcb759",
   "isResourceDeleted" : false,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:ap-southeast-1:584067744638:environment/dev",
     "templateArn" : "arn:aws:proton:ap-southeast-1:584067744638:environment-template/env_bundle",
     "templateMajorVersion" : "1",
-    "templateMinorVersion" : "1"
+    "templateMinorVersion" : "2"
   }
 }
