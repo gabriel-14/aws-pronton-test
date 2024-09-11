@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "7bdecaaa-41ca-4b7d-ae2e-60d38a397805",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:ap-southeast-1:584067744638:environment/dev",
+    "templateArn" : "arn:aws:proton:ap-southeast-1:584067744638:environment-template/env_bundle",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
