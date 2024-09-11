@@ -1,11 +1,11 @@
 {
-  "deploymentId" : "4a6a0798-8f47-4baa-9a50-120335667a0b",
+  "deploymentId" : "bc16be69-ca88-4113-897b-d2ab1ca443e7",
   "isResourceDeleted" : false,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:ap-southeast-1:584067744638:service/service_a/service-instance/service_a",
     "templateArn" : "arn:aws:proton:ap-southeast-1:584067744638:service-template/service_bundle",
     "templateMajorVersion" : "1",
-    "templateMinorVersion" : "1",
+    "templateMinorVersion" : "2",
     "environmentArn" : "arn:aws:proton:ap-southeast-1:584067744638:environment/dev"
   }
 }
