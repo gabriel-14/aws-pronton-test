@@ -12,7 +12,7 @@ terraform {
     }
 }
 resource "aws_s3_bucket" "test-bucket" {
-    bucket = "test-s3-bucket-for-proton-abiera-${var.environment.test-env-value}"
+    bucket = "test-s3-bucket-for-proton-abiera-${var.environment.inputs.test-env-value}"
 }
 
 output "bucket_name" {
