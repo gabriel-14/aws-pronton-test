@@ -1,0 +1,15 @@
+schema:
+  format:
+    openapi: "3.0.0"
+  service_input_type: "Contents"
+  types:
+    Contents:
+      type: object
+      description: "Input for environment."
+      properties:
+        content:
+          type: string
+          description: "Service Content"
+        name:
+          type: string
+          description: "Service Name"

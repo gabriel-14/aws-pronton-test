@@ -1,0 +1,12 @@
+schema:
+  format:
+    openapi: "3.0.0"
+  environment_input_type: "EnvironmentDetails"
+  types:
+    EnvironmentDetails:
+      type: object
+      description: "Input for environment."
+      properties:
+        test-env-value:
+          type: string
+          description: "Environment Name"
