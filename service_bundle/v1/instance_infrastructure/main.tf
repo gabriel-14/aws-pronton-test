@@ -11,9 +11,9 @@ terraform {
 }
 
 resource "aws_s3_object" "object" {
-    key = "${var.service.name}.txt"
+    key = "${var.service_instance.name}.txt"
     bucket = var.environment.outputs.bucket_name
-    content = var.service.content
+    content = var.service_instance.inputs.content
     tags = {
       "version" : "1"
     }
