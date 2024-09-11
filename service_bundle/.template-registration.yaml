@@ -1,2 +1,3 @@
 compatible_environments:
-  - env_bundle:1
+  - env_bundle:1.2
+  - env_bundle:1.0
