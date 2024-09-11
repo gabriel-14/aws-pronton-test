@@ -7,7 +7,6 @@ terraform {
     }
     backend "s3" {
         bucket = "terraform-state-bucket-abiera"
-        key = "test.tfstate"
         region = "ap-southeast-1"
     }
 }
